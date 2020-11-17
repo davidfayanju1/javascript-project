@@ -22,6 +22,13 @@ input[type=text]:focus{
     cursor: pointer;
 }
 
+.last-statement{
+    font-size: 30px;
+    font-weight: bolder;
+    display: none;
+    opacity: 0.5;
+}
+
 .filtered{
     display: none !important;
 }
